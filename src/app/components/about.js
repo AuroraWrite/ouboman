@@ -104,7 +104,7 @@ export default function About() {
           className="max-w-2xl mx-auto text-[#444] text-lg md:text-xl bg-white/70 rounded-3xl px-10 py-8 shadow-2xl border-2 border-[#e0c3fc]/30 mb-4 backdrop-blur-md"
           style={{ boxShadow: 'inset 0 2px 16px #e0c3fc22' }}
         >
-          海南欧波曼健康管理有限公司，坐落于重庆市大渡口区钢花路658号，是一家大型欧式风格美容空间，专为追求品质与格调的女性打造。我们融合自然疗愈与现代科技，提供科学、安全、有效的个性化美容方案。
+          海南欧波曼健康管理有限公司，坐落于海南省三亚市天涯区河西路佳河巷17号三楼307房，是一家大型欧式风格美容空间，专为追求品质与格调的女性打造。我们融合自然疗愈与现代科技，提供科学、安全、有效的个性化美容方案。
         </motion.div>
       </section>
 

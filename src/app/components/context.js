@@ -99,7 +99,7 @@ export default function Contact() {
           </div>
           <div className="text-[#666] text-lg flex items-center gap-2">
             <span className="text-[#bfa980]">地址：</span>{' '}
-            中国重庆市大渡口区钢花路658号
+            中国海南省三亚市天涯区河西路佳河巷17号三楼307房
           </div>
         </motion.div>
         {/* 在线预约/留言表单 */}

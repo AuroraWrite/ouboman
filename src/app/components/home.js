@@ -319,7 +319,7 @@ export default function Home() {
             transition={{ delay: 0.3, duration: 1 }}
             className="text-2xl md:text-3xl text-[#bfa980] font-semibold text-center md:text-left mb-6 tracking-wide"
           >
-            重庆市大渡口区钢花路658号
+            海南省三亚市天涯区河西路佳河巷17号三楼307房
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 40 }}
@@ -327,7 +327,7 @@ export default function Home() {
             transition={{ delay: 0.6, duration: 1 }}
             className="max-w-xl text-[#444] text-lg md:text-xl bg-white/80 rounded-3xl px-10 py-8 shadow-2xl border-2 border-[#e0c3fc]/30 mb-8 backdrop-blur-md"
           >
-            海南欧波曼健康管理有限公司，坐落于重庆市大渡口区钢花路658号，是一家大型欧式风格美容空间，专为追求品质与格调的女性打造。我们融合自然疗愈与现代科技，提供科学、安全、有效的个性化美容方案。
+            海南欧波曼健康管理有限公司，坐落于海南省三亚市天涯区河西路佳河巷17号三楼307房，是一家大型欧式风格美容空间，专为追求品质与格调的女性打造。我们融合自然疗愈与现代科技，提供科学、安全、有效的个性化美容方案。
           </motion.div>
           <motion.a
             initial={{ opacity: 0, y: 40 }}
