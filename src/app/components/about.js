@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 const team = [
   {
-    name: '夏静',
+    name: '波琳娜',
     title: '创始人/院长',
     avatar: 'https://randomuser.me/api/portraits/women/80.jpg',
     desc: '20年美容行业经验，专注高端定制护理。',
@@ -104,7 +104,7 @@ export default function About() {
           className="max-w-2xl mx-auto text-[#444] text-lg md:text-xl bg-white/70 rounded-3xl px-10 py-8 shadow-2xl border-2 border-[#e0c3fc]/30 mb-4 backdrop-blur-md"
           style={{ boxShadow: 'inset 0 2px 16px #e0c3fc22' }}
         >
-          海南欧波曼健康管理有限公司，坐落于海南省三亚市天涯区河西路佳河巷17号三楼307房，是一家大型欧式风格美容空间，专为追求品质与格调的女性打造。我们融合自然疗愈与现代科技，提供科学、安全、有效的个性化美容方案。
+          海南欧波曼健康管理有限公司，坐落于海南省三亚市吉阳区吉阳镇亚龙湾国家旅游度假区亚龙大道亚龙湾公主郡三期V105幢，是一家大型欧式风格美容空间，专为追求品质与格调的女性打造。我们融合自然疗愈与现代科技，提供科学、安全、有效的个性化美容方案。
         </motion.div>
       </section>
 
@@ -320,11 +320,11 @@ export default function About() {
 
       {/* 底部联系方式与版权 */}
       <footer className="py-12 text-center text-[#b7b7b7] text-lg bg-white/60 border-t border-[#ececec] mt-10">
-        <div className="mb-2">联系人：夏静</div>
+        <div className="mb-2">联系人：波琳娜</div>
         <div className="mb-2">
           电话：
-          <a href="tel:13655882368" className="text-[#bfa980] hover:underline">
-            13655882368
+          <a href="tel:18689990523" className="text-[#bfa980] hover:underline">
+            18689990523
           </a>
         </div>
         <div className="mb-2">

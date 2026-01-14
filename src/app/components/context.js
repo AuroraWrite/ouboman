@@ -79,19 +79,19 @@ export default function Contact() {
             <span>📞</span> 联系方式
           </div>
           <div className="text-[#666] text-lg flex items-center gap-2">
-            <span className="text-[#bfa980]">联系人：</span> 夏静
+            <span className="text-[#bfa980]">联系人：</span> 波琳娜
           </div>
           <div className="text-[#666] text-lg flex items-center gap-2">
             <span className="text-[#bfa980]">电话：</span>
             <a
-              href="tel:13655882368"
+              href="tel:18689990523"
               className="text-[#bfa980] hover:underline"
             >
-              13655882368
+              18689990523
             </a>
           </div>
           <div className="text-[#666] text-lg flex items-center gap-2">
-            <span className="text-[#bfa980]">微信：</span> 13655882368
+            <span className="text-[#bfa980]">微信：</span> 18689990523
           </div>
           <div className="text-[#666] text-lg flex items-center gap-2">
             <span className="text-[#bfa980]">邮箱：</span>{' '}
@@ -99,7 +99,7 @@ export default function Contact() {
           </div>
           <div className="text-[#666] text-lg flex items-center gap-2">
             <span className="text-[#bfa980]">地址：</span>{' '}
-            中国海南省三亚市天涯区河西路佳河巷17号三楼307房
+            中国海南省三亚市吉阳区吉阳镇亚龙湾国家旅游度假区亚龙大道亚龙湾公主郡三期V105幢
           </div>
         </motion.div>
         {/* 在线预约/留言表单 */}
@@ -267,11 +267,11 @@ export default function Contact() {
 
       {/* 底部联系方式与版权 */}
       <footer className="py-12 text-center text-[#b7b7b7] text-lg bg-white/60 border-t border-[#ececec] mt-10">
-        <div className="mb-2">联系人：夏静</div>
+        <div className="mb-2">联系人：波琳娜</div>
         <div className="mb-2">
           电话：
-          <a href="tel:13655882368" className="text-[#bfa980] hover:underline">
-            13655882368
+          <a href="tel:18689990523" className="text-[#bfa980] hover:underline">
+            18689990523
           </a>
         </div>
         <div className="mb-2">海南欧波曼健康管理有限公司</div>

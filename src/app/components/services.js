@@ -456,11 +456,11 @@ export default function Services() {
 
       {/* 底部联系方式与版权 */}
       <footer className="py-12 text-center text-[#b7b7b7] text-lg bg-white/60 border-t border-[#ececec] mt-10">
-        <div className="mb-2">联系人：夏静</div>
+        <div className="mb-2">联系人：波琳娜</div>
         <div className="mb-2">
           电话：
-          <a href="tel:13655882368" className="text-[#bfa980] hover:underline">
-            13655882368
+          <a href="tel:18689990523" className="text-[#bfa980] hover:underline">
+            18689990523
           </a>
         </div>
         <div className="mb-2">海南欧波曼健康管理有限公司</div>
