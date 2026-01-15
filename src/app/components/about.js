@@ -323,8 +323,8 @@ export default function About() {
         <div className="mb-2">联系人：波琳娜</div>
         <div className="mb-2">
           电话：
-          <a href="tel:18689990523" className="text-[#bfa980] hover:underline">
-            18689990523
+          <a href="tel:+86 18689990523 / +7 9006366989" className="text-[#bfa980] hover:underline">
+            +86 18689990523 / +7 9006366989
           </a>
         </div>
         <div className="mb-2">

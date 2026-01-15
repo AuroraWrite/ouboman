@@ -84,14 +84,14 @@ export default function Contact() {
           <div className="text-[#666] text-lg flex items-center gap-2">
             <span className="text-[#bfa980]">电话：</span>
             <a
-              href="tel:18689990523"
+              href="tel:+86 18689990523 / +7 9006366989"
               className="text-[#bfa980] hover:underline"
             >
-              18689990523
+              +86 18689990523 / +7 9006366989
             </a>
           </div>
           <div className="text-[#666] text-lg flex items-center gap-2">
-            <span className="text-[#bfa980]">微信：</span> 18689990523
+            <span className="text-[#bfa980]">微信：</span> +86 18689990523 / +7 9006366989
           </div>
           <div className="text-[#666] text-lg flex items-center gap-2">
             <span className="text-[#bfa980]">邮箱：</span>{' '}
@@ -270,8 +270,8 @@ export default function Contact() {
         <div className="mb-2">联系人：波琳娜</div>
         <div className="mb-2">
           电话：
-          <a href="tel:18689990523" className="text-[#bfa980] hover:underline">
-            18689990523
+          <a href="tel:+86 18689990523 / +7 9006366989" className="text-[#bfa980] hover:underline">
+            +86 18689990523 / +7 9006366989
           </a>
         </div>
         <div className="mb-2">海南欧波曼健康管理有限公司</div>
